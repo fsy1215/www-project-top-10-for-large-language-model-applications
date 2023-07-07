@@ -36,6 +36,7 @@ Prevention Step 3: Employ white-box or black-box mechanisms to detect the presen
 Prevention Step 4: Enhance the robustness of the model and improve its resistance to backdoor attacks.
 
 Example Attack Scenarios:
+
 Scenario #1: Training the model with unverified data sources creates a vulnerability where an attacker can embed backdoor data within these datasets. Once the model is trained, the backdoor is implanted in the model weights. When trigger samples are inputted, the attack is triggered.
 
 Scenario #2: Outsourcing the model training process to a vendor team introduces a risk where an attacker can infiltrate the outsourcing team and inject backdoor data into the training data. After the model is trained, the backdoor is implanted in the model weights. When trigger samples are inputted, the attack is triggered.
