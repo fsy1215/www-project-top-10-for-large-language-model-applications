@@ -17,7 +17,7 @@ Labels/Tags:
 
 •	 Label: " backdoor poisons"
 
-•	 Label: “Trigger”
+•	 Label: " Trigger"
 
 Common Examples of Vulnerability:
 
@@ -44,4 +44,6 @@ Scenario #2: Outsourcing the model training process to a vendor team introduces 
 Reference Links:
 1.	https://arxiv.org/abs/2007.10760   Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review
 2.	https://arxiv.org/abs/1902.06531   STRIP: A Defence Against Trojan Attacks on Deep Neural Networks
-3.	https://people.cs.rutgers.edu/~sm2283/papers/NDSS18.TNN.pdf  Trojaning Attack on Neural Networks 
+3.	https://people.cs.rutgers.edu/~sm2283/papers/NDSS18.TNN.pdf  Trojaning Attack on Neural Networks
+
+
