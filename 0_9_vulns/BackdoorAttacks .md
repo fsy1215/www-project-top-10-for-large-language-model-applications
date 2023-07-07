@@ -6,6 +6,7 @@ backdoor attacks
 Shanyang Fu
 
 **Description:**
+
 The backdoor attack mentioned here is completely different from the backdoor in traditional attack. The traditional backdoor is a code written and implanted into a computer. In the case of backdoor attacks in large language models, the attack is achieved by modifying the training data. After the data training is completed, the backdoor is implanted inside the model. When facing samples with triggers, the backdoor attack is triggered.
 Backdoor attacks are somewhat similar to data poisoning, but they differ in that data poisoning attacks affect the overall accuracy and significantly degrade the performance of the model. In contrast, backdoor attacks maintain the inference accuracy for benign samples (i.e., without triggers), and only when facing samples with triggers, the inference will produce the attacker's desired results.
 
